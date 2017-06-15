@@ -17,17 +17,3 @@ import './index.css';
 //   );
 // }
 // setInterval(tick,1000);
-
-
-class Welcome extends React.Component{
-  render() {
-    return <h1>Hello, Component</h1>;
-  }
-}
-
-
-
-ReactDOM.render(
-  <Welcome/>,
-  document.getElementById('root')
-)
