@@ -5,10 +5,10 @@ import registerServiceWorker from './registerServiceWorker';
 import './index.css';
 import Welcome from './Welcome'
 
-ReactDOM.render(
-  <Welcome name="HARRISKING"/>,
-  document.getElementById('root')
-)
+// ReactDOM.render(
+//   <Welcome name="HARRISKING"/>,
+//   document.getElementById('root')
+// )
 
 // function tick(){
 //   const element = (
